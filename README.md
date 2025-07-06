@@ -20,7 +20,7 @@ Student @ Dr.N.G.P Institute Of Technology
   <img src="https://img.icons8.com/color/50/000000/git.png" height="50" width="50" alt="Git" />
   <img src="https://img.icons8.com/officel/480/null/java-eclipse.png" height="50" width="50" alt="Eclipse" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" width="50" alt="IntelliJ" />
-  <img src="https://img.icons8.com/color/48/netlify.png" height="50" width="50" alt="Netlify" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="50" width="50" alt="Netlify" />
 </p>
 
   
