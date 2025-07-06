@@ -15,7 +15,14 @@ Student @ Dr.N.G.P Institute Of Technology
 
 ###
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="50" width="50" alt="VS Code" />
+  <img src="https://img.icons8.com/color/50/000000/git.png" height="50" width="50" alt="Git" />
+  <img src="https://img.icons8.com/officel/480/null/java-eclipse.png" height="50" width="50" alt="Eclipse" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" width="50" alt="IntelliJ" />
+  <img src="https://img.icons8.com/color/48/netlify.png" height="50" width="50" alt="Netlify" />
+</p>
+
   
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/kavinkumar200448?theme=light&font=Manuale&ext=contest)](https://leetcode.com/u/kavinkumar200448/)
