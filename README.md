@@ -25,7 +25,7 @@ Student @ Dr.N.G.P Institute Of Technology
 
   
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kavinkumar200448?theme=light&font=Manuale&ext=contest)](https://leetcode.com/u/kavinkumar200448/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/KavinKumar84?theme=light&font=Manuale&ext=contest)](https://leetcode.com/u/KavinKumar84/)
 
 <br clear="both">
 
